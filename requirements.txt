@@ -1,0 +1,9 @@
+pandas==1.3.5
+pandas_gbq
+pyarrow
+requests
+retrying
+betterlogging
+google-cloud-storage
+google-cloud-bigquery
+google-cloud-scheduler
